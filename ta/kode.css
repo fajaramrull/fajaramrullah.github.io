@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url("img/background")
+}
+
+/* .kode{
+margin-top: -20px;
+background-color: black;
+} */
+
+header{
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    border: 2px solid black;
+    background-color: bisque;
+    margin-left: 25%;
+    margin-right: 25%;
+}
